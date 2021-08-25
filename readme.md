@@ -23,7 +23,7 @@
 
 - [ ] Task 1: High order array functions
 
-### 1) High Order array functions
+### 1) Write your own high order array functions
 
 Javascript high order functions are commonly used to execute functions on an array, such as filtering or checking whether it fulfills an expected requirement. Prominent examples for high order functions are `Array.forEach` or `Array.map`.
 
